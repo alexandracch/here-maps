@@ -6,6 +6,29 @@ Disfruta del estado outdoors con Here Maps.
 
 # **RESEARCH**
 
+## Entrevistas
+
+1. **Entrevista Gianacarlo**
+
+Edad: 35
+Profesión: Profesional de Marketing
+
+[Giancarlo](https://docs.google.com/presentation/d/1C1uxFMI5upQHzpqgO0Y8k8PEFb9z7ZSu8dZZjA8OgEQ/edit?usp=sharing)
+
+2. **Entrevista Rocío**
+
+Edad: 21
+Profesión: estudiante
+
+[Rocío](https://docs.google.com/presentation/d/1dSuGN-A3hd0djoG3d74doMmSCXUFutPqpNWY789_pj4/edit?usp=sharing)
+
+3. **Entrevista Alejandra**
+
+Edad: 25 años.
+Profesión: Training Manager
+
+[Alejandra](https://docs.google.com/presentation/d/1oAfouN8p3xMu0AXDmVfWEnPyt2VmSAA6-LEh_vN_Wu4/edit?usp=sharing)
+
 ## Encuesta Online:
 
 ### **Conclusiones de la encuesta online**
