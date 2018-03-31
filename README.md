@@ -48,6 +48,21 @@ Profesión: Training Manager
 
 ## Encuesta Online:
 
+
+
+### **Conclusiones de la encuesta online**
+
+- El 62% de los encuestados a realizado algún turismo de aventura.
+- La actividad más realizada es caminatas (65%).
+- Lo que les impulsó a realizar estas actividades fue el mismo hecho de viajar y en algunos casos, por recomendación.Solo un 13% lo hace por hobby.
+- La búsqueda de información sobre estas actividades se hace principalmente en Internet en un 87%
+- Para los usuarios es de mucha importancia la opinión de otras personas.
+- En un 87%, las personas suelen llamar a un familiar o amigo, para notificar que llegó a su destino.
+- Los servicios que a las personas le interesa conocer su ubicación son: hoteles, restaurantes y lugares turísticos. Y para encontrar estos servicios, suelen buscar los datos en Internet o consultar a una persona del lugar.
+- Para decidir a que lugar ir de un servicio determinado, la persona se guía de las opiniones y experiencias de otros usuarios. 
+
+### Gráficos de los resultados de la encuesta
+
 ![Encuesta Online](assets/form/pregunta.JPG)
 ![Encuesta Online](assets/form/pregunta1.JPG)
 ![Encuesta Online](assets/form/pregunta2.JPG)
@@ -66,19 +81,6 @@ Profesión: Training Manager
 ![Encuesta Online](assets/form/pregunta15.JPG)
 ![Encuesta Online](assets/form/pregunta16.JPG)
 
-
-### **Conclusiones de la encuesta online**
-
-- El 62% de los encuestados a realizado algún turismo de aventura.
-- La actividad más realizada es caminatas (65%).
-- Lo que les impulsó a realizar estas actividades fue el mismo hecho de viajar y en algunos casos, por recomendación.Solo un 13% lo hace por hobby.
-- La búsqueda de información sobre estas actividades se hace principalmente en Internet en un 87%
-- Para los usuarios es de mucha importancia la opinión de otras personas.
-- En un 87%, las personas suelen llamar a un familiar o amigo, para notificar que llegó a su destino.
-- Los servicios que a las personas le interesa conocer su ubicación son: hoteles, restaurantes y lugares turísticos. Y para encontrar estos servicios, suelen buscar los datos en Internet o consultar a una persona del lugar.
-- Para decidir a que lugar ir de un servicio determinado, la persona se guía de las opiniones y experiencias de otros usuarios. 
-
-### Gráficos de los resultados de la encuesta.
 
 ![Encuesta virtual]()
 
