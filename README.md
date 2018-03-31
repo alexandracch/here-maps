@@ -1,8 +1,8 @@
-# HERE MAPS
+# OUTDOOR
 
-Here Maps es una aplicación para los amantes de la aventura, el aire libre y la naturaleza. Encuentra, graba y compate tus rutas. Ubica servicios y lugares turísticos cercanos a ti; te ayudamos a elegirlos de acuerdo al tiempo estimado de llegada. 
+Outdoor es una aplicación para los amantes de la aventura, el aire libre y la naturaleza. Encuentra, graba y compate tus rutas. Ubica servicios y lugares turísticos cercanos a ti; te ayudamos a elegirlos de acuerdo al tiempo estimado de llegada. 
 Como sabemos que estarás al aire libre, puedes descargar tus rutas y tenerlas en tu celular sin preocuparte por la conexión a Internet.
-Disfruta del estado outdoors con Here Maps.
+Disfruta del estado Outdoor.
 
 # **RESEARCH**
 
@@ -50,6 +50,19 @@ Profesión: Training Manager
 
 ### **Conclusiones de la encuesta online**
 
+- El 62% de los encuestados a realizado algún turismo de aventura.
+- La actividad más realizada es caminatas (65%).
+- Lo que les impulsó a realizar estas actividades fue el mismo hecho de viajar y en algunos casos, por recomendación.Solo un 13% lo hace por hobby.
+- La búsqueda de información sobre estas actividades se hace principalmente en Internet en un 87%
+- Para los usuarios es de mucha importancia la opinión de otras personas.
+- En un 87%, las personas suelen llamar a un familiar o amigo, para notificar que llegó a su destino.
+- Los servicios que a las personas le interesa conocer su ubicación son: hoteles, restaurantes y lugares turísticos. Y para encontrar estos servicios, suelen buscar los datos en Internet o consultar a una persona del lugar.
+- Para decidir a que lugar ir de un servicio determinado, la persona se guía de las opiniones y experiencias de otros usuarios. 
+
+### Gráficos de los resultados de la encuesta.
+
+![Encuesta virtual]()
+
 ## **Benchmarck**
 
 # **ANÁLISIS DE DATOS**
@@ -86,6 +99,8 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 ## Modificaciones y puntos de mejora
 
 ## Prototipo de Alta fidelidad
+
+[Outdoor]()
 
 ## User flow
 
