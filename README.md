@@ -25,7 +25,7 @@ Disfruta del estado Outdoor.
 
 ### Entrevistas realizadas
 
-1. **Entrevista Gianacarlo**
+1. **Entrevista Jean Carlo**
 
 Edad: 35
 Profesión: Profesional de Marketing
@@ -64,6 +64,8 @@ Profesión: Training Manager
 ![Encuesta virtual]()
 
 ## **Benchmarck**
+
+![Benckmark](assets/docs/benckmark.png)
 
 # **ANÁLISIS DE DATOS**
 
