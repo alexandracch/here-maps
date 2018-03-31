@@ -48,6 +48,25 @@ Profesión: Training Manager
 
 ## Encuesta Online:
 
+![Encuesta Online](assets/form/pregunta.JPG)
+![Encuesta Online](assets/form/pregunta1.JPG)
+![Encuesta Online](assets/form/pregunta2.JPG)
+![Encuesta Online](assets/form/pregunta3.JPG)
+![Encuesta Online](assets/form/pregunta4.JPG)
+![Encuesta Online](assets/form/pregunta5.JPG)
+![Encuesta Online](assets/form/pregunta6.JPG)
+![Encuesta Online](assets/form/pregunta7.JPG)
+![Encuesta Online](assets/form/pregunta8.JPG)
+![Encuesta Online](assets/form/pregunta9.JPG)
+![Encuesta Online](assets/form/pregunta10.JPG)
+![Encuesta Online](assets/form/pregunta11.JPG)
+![Encuesta Online](assets/form/pregunta12.JPG)
+![Encuesta Online](assets/form/pregunta13.JPG)
+![Encuesta Online](assets/form/pregunta14.JPG)
+![Encuesta Online](assets/form/pregunta15.JPG)
+![Encuesta Online](assets/form/pregunta16.JPG)
+
+
 ### **Conclusiones de la encuesta online**
 
 - El 62% de los encuestados a realizado algún turismo de aventura.
