@@ -109,7 +109,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ## **FEATURE LIST**
 
-![Feature List](assets/docs/postits.jpg)
+![Feature List](assets/docs/postits.png)
 
 ### Priorización
 
