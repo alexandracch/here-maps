@@ -113,6 +113,8 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ### Priorización
 
+![Priorización](assets/docs/priorizacion.png)
+
 ## Paper prototyping 
 
 ### Testing del Paper prototyping
