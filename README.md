@@ -82,8 +82,6 @@ Profesión: Training Manager
 ![Encuesta Online](assets/form/pregunta16.JPG)
 
 
-![Encuesta virtual]()
-
 ## **Benchmarck**
 
 ![Benckmark](assets/docs/benckmark.png)
@@ -110,6 +108,8 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 ![User persona](assets/docs/user-persona.jpg)
 
 ## **FEATURE LIST**
+
+![Feature List](assets/docs/postits.jpg)
 
 ### Priorización
 
