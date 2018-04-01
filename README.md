@@ -1,6 +1,6 @@
 # OUTDOOR
 
-![Out door](assets/docs/logo.png)
+![Out door](assets/docs/outdoor.png)
 
 Outdoor es una aplicación para los amantes de la aventura, el aire libre y la naturaleza. Encuentra, graba y compate tus rutas. Ubica servicios y lugares turísticos cercanos a ti; te ayudamos a elegirlos de acuerdo al tiempo estimado de llegada. 
 Como sabemos que estarás al aire libre, puedes descargar tus rutas y tenerlas en tu celular sin preocuparte por la conexión a Internet.
@@ -156,7 +156,11 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ## Testing del Paper prototyping
 
-## Modificaciones y puntos de mejora
+### Modificaciones y puntos de mejora
+
+- Hacer el registro más entendible, poner usuario y contraseña primero, luego los botones de Gmail y Facebook.
+- Hacer la bienvenidad un poc más llamativa.
+
 
 ## **Primer prototipo de Alta fidelidad**
 
@@ -183,7 +187,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 ![Testing](assets/testing/presencial.png)
 
 
-## Modificaciones y puntos de mejora
+### Modificaciones y puntos de mejora
 
 - Corrección de los íconos elegidos.
 - Detalle de color cuando la ruta está siendo grabada.
