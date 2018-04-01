@@ -178,7 +178,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ![Testing](assets/docs/testing.jpg)
 ![Testing](assets/testing/testing-2.png)
-![Testing](assets/testing/presencial/testng-presencial.png)
+![Testing](assets/testing/presencial.png)
 
 
 ## Modificaciones y puntos de mejora
@@ -193,11 +193,21 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ## Propuesta final.
 
-## Implemetaciones a futuro.
+[Outdoor](https://marvelapp.com/65di1jd/screen/40514833)
+
+## Implemetaciones a futuro
+
+- Filtro en edición de fotografías.
+- Sistema de offline.
+- Seguimiento en vivo.
 
 # HERRAMIENTAS UTILIZADAS
 
 - Adobe Ilustrator
 - Figma
 - Marvel
+- Google Drive
+- Google Form
+- Design Thinking
+
 
