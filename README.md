@@ -108,6 +108,47 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ## Paper prototyping 
 
+### Todos los flujos
+
+![Paper prototype](assets/prototipo/todos-prototiposjpg)
+
+### Bienvenida
+
+![Paper prototype](assets/prototipo/bienvenida.jpg)
+
+### Registro
+
+![Paper prototype](assets/prototipo/registro.jpg)
+
+### Ingresar destino y trazar ruta
+
+![Paper prototype](assets/prototipo/ingresa-destino.jpg)
+
+### Servicios y atractivos en ruta
+
+![Paper prototype](assets/prototipo/servicios-atractivos.jpg)
+
+### Rutas guardadas
+
+![Paper prototype](assets/prototipo/listaderutas.jpg)
+
+### Grabar ruta
+
+![Paper prototype](assets/prototipo/grabación.jpg)
+
+### Galería de fotos
+
+![Paper prototype](assets/prototipo/galería.jpg)
+
+### Alertas
+
+![Paper prototype](assets/prototipo/alertas.jpg)
+
+### Descarga de rutas
+
+![Paper prototype](assets/prototipo/descargarutas.jpg)
+
+
 
 # ITERACIÓN
 
