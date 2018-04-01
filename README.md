@@ -98,21 +98,28 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ![Priorización](assets/docs/priorizacion.png)
 
-## Paper prototyping 
-
-### Testing del Paper prototyping
-
-# ITERACIÓN
-
-## Modificaciones y puntos de mejora
-
-## Prototipo de Alta fidelidad
-
-[Outdoor](https://marvelapp.com/65di1jd/screen/40514833)
-
 ## User flow
 
 [User Flow](https://docs.google.com/presentation/d/1KSLhnJD7F85ECQSR1zEHPnqywCaOtG3UM9KNIhhWYzw/edit?usp=sharing)
+
+# BUSINESS MODEL CANVAS
+
+![Business Model Canvas](assets/docs/b-m-c.jpg)
+
+## Paper prototyping 
+
+
+# ITERACIÓN
+
+## Testing del Paper prototyping
+
+## Modificaciones y puntos de mejora
+
+## **Primer prototipo de Alta fidelidad**
+
+[Outdoor](https://marvelapp.com/65di1jd/screen/40514833)
+
+
 
 ## Modelo del producto
 
