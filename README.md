@@ -2,7 +2,7 @@
 
 ![Out door](assets/docs/outdoor.png)
 
-Outdoor es una aplicación para los amantes de la aventura, el aire libre y la naturaleza. Encuentra, graba y compate tus rutas. Ubica servicios y lugares turísticos cercanos a ti; te ayudamos a elegirlos de acuerdo al tiempo estimado de llegada. 
+Outdoor es una aplicación para los amantes de la aventura, el aire libre y la naturaleza. Encuentra, graba y comparte tus rutas. Ubica servicios y lugares turísticos cercanos a ti; te ayudamos a elegirlos de acuerdo al tiempo estimado de llegada. 
 Como sabemos que estarás al aire libre, puedes descargar tus rutas y tenerlas en tu celular sin preocuparte por la conexión a Internet.
 Disfruta del estado Outdoor.
 
@@ -159,7 +159,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 ### Modificaciones y puntos de mejora
 
 - Hacer el registro más entendible, poner usuario y contraseña primero, luego los botones de Gmail y Facebook.
-- Hacer la bienvenidad un poc más llamativa.
+- Hacer la bienvenidad un poco más llamativa.
 
 
 ## **Primer prototipo de Alta fidelidad**
