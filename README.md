@@ -171,9 +171,14 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 - Mejorar la legibilidad de algunos íconos.
 - Información sobre el medio de pago de los servicios.
 - Detallar funcionalidades nuevas.
+- Hacer slider las vistas de bienvenida.
+- Modificar el flujo de Galería y edición de imágenes.
+- Resaltar la funcionalidad de grabación de rutas.
+
 
 ![Testing](assets/docs/testing.jpg)
 ![Testing](assets/testing/testing-2.png)
+![Testing](assets/testing/presencial/testng-presencial.png)
 
 
 ## Modificaciones y puntos de mejora
@@ -182,6 +187,9 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 - Detalle de color cuando la ruta está siendo grabada.
 - Corrección de enlaces rotos. 
 - Brindar una guía al usuario en algunas funcionalidades. 
+- Flujo de edición de fotografías más práctico y entendible.
+- Agregado "Comunícate con nosotros" en el menú hamburguesa.
+- Agregado de cámara en el mapa.
 
 ## Propuesta final.
 
