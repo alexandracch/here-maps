@@ -49,7 +49,6 @@ Profesión: Training Manager
 ## Encuesta Online:
 
 
-
 ### **Conclusiones de la encuesta online**
 
 - El 62% de los encuestados a realizado algún turismo de aventura.
@@ -63,23 +62,7 @@ Profesión: Training Manager
 
 ### Gráficos de los resultados de la encuesta
 
-![Encuesta Online](assets/form/pregunta.JPG)
-![Encuesta Online](assets/form/pregunta1.JPG)
-![Encuesta Online](assets/form/pregunta2.JPG)
-![Encuesta Online](assets/form/pregunta3.JPG)
-![Encuesta Online](assets/form/pregunta4.JPG)
-![Encuesta Online](assets/form/pregunta5.JPG)
-![Encuesta Online](assets/form/pregunta6.JPG)
-![Encuesta Online](assets/form/pregunta7.JPG)
-![Encuesta Online](assets/form/pregunta8.JPG)
-![Encuesta Online](assets/form/pregunta9.JPG)
-![Encuesta Online](assets/form/pregunta10.JPG)
-![Encuesta Online](assets/form/pregunta11.JPG)
-![Encuesta Online](assets/form/pregunta12.JPG)
-![Encuesta Online](assets/form/pregunta13.JPG)
-![Encuesta Online](assets/form/pregunta14.JPG)
-![Encuesta Online](assets/form/pregunta15.JPG)
-![Encuesta Online](assets/form/pregunta16.JPG)
+![Encuesta Online](assets/form/encuesta.png)
 
 
 ## **Benchmarck**
@@ -125,7 +108,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ## Prototipo de Alta fidelidad
 
-[Outdoor]()
+[Outdoor](https://marvelapp.com/65di1jd/screen/40514833)
 
 ## User flow
 
@@ -137,7 +120,19 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ## Testing del prototipo de alta fidelidad.
 
+- Mejorar la legibilidad de algunos íconos.
+- Información sobre el medio de pago de los servicios.
+- Detallar funcionalidades nuevas.
+
+![Testing](assets/docs/testing.jpg)
+
+
 ## Modificaciones y puntos de mejora
+
+- Corrección de los íconos elegidos.
+- Detalle de color cuando la ruta está siendo grabada.
+- Corrección de enlaces rotos. 
+- Brindar una guía al usuario en algunas funcionalidades. 
 
 ## Propuesta final.
 
@@ -145,4 +140,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 # HERRAMIENTAS UTILIZADAS
 
+- Adobe Ilustrator
+- Figma
+- Marvel
 
