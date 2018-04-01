@@ -30,7 +30,7 @@ Disfruta del estado Outdoor.
 Edad: 35
 Profesión: Profesional de Marketing
 
-[Giancarlo](https://docs.google.com/presentation/d/1C1uxFMI5upQHzpqgO0Y8k8PEFb9z7ZSu8dZZjA8OgEQ/edit?usp=sharing)
+[Jean Carlo](https://docs.google.com/presentation/d/1C1uxFMI5upQHzpqgO0Y8k8PEFb9z7ZSu8dZZjA8OgEQ/edit?usp=sharing)
 
 2. **Entrevista Rocío**
 
@@ -110,7 +110,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ### Todos los flujos
 
-![Paper prototype](assets/prototipo/todos-prototiposjpg)
+![Paper prototype](assets/prototipo/todos-prototipos.jpg)
 
 ### Bienvenida
 
@@ -134,7 +134,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ### Grabar ruta
 
-![Paper prototype](assets/prototipo/grabación.jpg)
+![Paper prototype](assets/prototipo/grabacion.jpg)
 
 ### Galería de fotos
 
@@ -173,6 +173,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 - Detallar funcionalidades nuevas.
 
 ![Testing](assets/docs/testing.jpg)
+![Testing](assets/testing/testing-2.png)
 
 
 ## Modificaciones y puntos de mejora
