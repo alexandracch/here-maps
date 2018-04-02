@@ -6,6 +6,12 @@ Outdoor es una aplicación para los amantes de la aventura, el aire libre y la n
 Como sabemos que estarás al aire libre, puedes descargar tus rutas y tenerlas en tu celular sin preocuparte por la conexión a Internet.
 Disfruta del estado Outdoor.
 
+## Realizado por:
+
+- Calderón Chumbes, María Alexandra
+- Cisneros Torre, Yelitza
+
+
 # **RESEARCH**
 
 ## Entrevistas
@@ -15,13 +21,13 @@ Disfruta del estado Outdoor.
 1. ¿Haces actividades al aire libre?
 2. ¿Sueles viajar?
 3. ¿Cómo decides a qué lugares viajar?
-4. ¿Quienes te acompañan en tus viajes?
-5. ¿Cómo decides a dénde viajar?
+4. ¿Quiénes te acompañan en tus viajes?
+5. ¿Cómo decides a dónde viajar?
 6. ¿Consultas alguna aplicación antes o durante tu viaje? ¿Por qué? ¿Qué beneficios te da?
-7. Si no utilizas ninguna, cuéntamos por qué.
+7. Si no utilizas ninguna, cuéntanos por qué.
 8. ¿Qué actividades te gusta realizar cuando viajas?
 9. ¿Notificas a alguna persona cuando llegas a tu destino? ¿A quién? ¿Cómo lo haces?
-10. Si no lo haces, cuéntamos el por qué.
+10. Si no lo haces, cuéntanos el por qué.
 11. ¿Compartes los recuerdos de tus viajes en redes sociales? ¿Cuáles?
 
 
@@ -55,12 +61,12 @@ Profesión: Training Manager
 
 - El 62% de los encuestados a realizado algún turismo de aventura.
 - La actividad más realizada es caminatas (65%).
-- Lo que les impulsó a realizar estas actividades fue el mismo hecho de viajar y en algunos casos, por recomendación.Solo un 13% lo hace por hobby.
+- Lo que les impulsó a realizar estas actividades fue el mismo hecho de viajar y en algunos casos, por recomendación. Solo un 13% lo hace por hobby.
 - La búsqueda de información sobre estas actividades se hace principalmente en Internet en un 87%
 - Para los usuarios es de mucha importancia la opinión de otras personas.
 - En un 87%, las personas suelen llamar a un familiar o amigo, para notificar que llegó a su destino.
 - Los servicios que a las personas le interesa conocer su ubicación son: hoteles, restaurantes y lugares turísticos. Y para encontrar estos servicios, suelen buscar los datos en Internet o consultar a una persona del lugar.
-- Para decidir a que lugar ir de un servicio determinado, la persona se guía de las opiniones y experiencias de otros usuarios. 
+- Para decidir a qué lugar ir de un servicio determinado, la persona se guía de las opiniones y experiencias de otros usuarios. 
 
 ### Gráficos de los resultados de la encuesta
 
@@ -75,12 +81,12 @@ Profesión: Training Manager
 
 ## **Problem Statements**
 
-En el proceso de investigación, encontramos el problema de que los usuarios suelen utilizar Google Maps para sus viajes, ya que les brinda la información que necesitan. Por tanto nuestro enfoqué se centró el ofrecer un servicio más completo.
+En el proceso de investigación, encontramos el problema de que los usuarios suelen utilizar Google Maps para sus viajes, ya que les brinda la información que necesitan. Por tanto, nuestro enfoqué se centró el ofrecer un servicio más completo.
 
 ## **HMW**
 
 - ¿Cómo podríamos brindar agrupar las rutas de acuerdo a cada actividad?
-- ¿Cómo podríamos generar una aplicación que intregre servicios, rutas y turismo?
+- ¿Cómo podríamos generar una aplicación que integre servicios, rutas y turismo?
 - ¿Cómo podríamos mostrar un flujo de manera sencilla y directa?
 
 
@@ -132,7 +138,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ![Paper prototype](assets/prototipo/ingresa-destino.jpg)
 
-### Servicios y atractivos en ruta
+### Servicios y atractivos que se encuentran en la ruta
 
 ![Paper prototype](assets/prototipo/servicios-atractivos.jpg)
 
@@ -209,9 +215,16 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ## Implemetaciones a futuro
 
+- Reporte del clima de acuerdo a la ruta elegida. 
+- Planificación de actividades.
 - Filtro en edición de fotografías.
 - Sistema de offline.
 - Seguimiento en vivo.
+
+## Presentación del producto
+
+[Presentación Outdoor](https://www.emaze.com/@AOLCZTQZI/outdoor)
+
 
 # HERRAMIENTAS UTILIZADAS
 
