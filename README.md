@@ -96,7 +96,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ### Lista de ideas
 
-![Feature List](assets/docs/postits.png)
+![Ideas](assets/docs/ideas.png)
 
 ### Priorización
 
@@ -205,7 +205,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ## Propuesta final.
 
-[Outdoor](https://marvelapp.com/65di1jd/screen/40514833)
+[Outdoor](https://marvelapp.com/65ga006/screen/40536099)
 
 ## Implemetaciones a futuro
 
