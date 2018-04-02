@@ -211,7 +211,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ## Propuesta final.
 
-[Outdoor](https://marvelapp.com/65ga006/screen/40536099)
+[Outdoor](https://marvelapp.com/65ga006/screen/40536153)
 
 ## Implemetaciones a futuro
 
