@@ -92,13 +92,19 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ![User persona](assets/docs/user-persona.jpg)
 
-## **FEATURE LIST**
+## **IDEACIÓN**
+
+### Lista de ideas
 
 ![Feature List](assets/docs/postits.png)
 
 ### Priorización
 
 ![Priorización](assets/docs/priorizacion.png)
+
+### Feature List
+
+![Priorización](assets/docs/featurelist.png)
 
 ## User flow
 
