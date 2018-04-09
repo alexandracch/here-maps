@@ -78,7 +78,7 @@ Profesión: Training Manager
 
 ![Benckmark](assets/docs/benckmark.png)
 
-# **ANÁLISIS DE DATOS**
+##**ANÁLISIS DE DATOS**
 
 ## **Problem Statements**
 
@@ -117,7 +117,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 [User Flow](https://docs.google.com/presentation/d/1KSLhnJD7F85ECQSR1zEHPnqywCaOtG3UM9KNIhhWYzw/edit?usp=sharing)
 
-# BUSINESS MODEL CANVAS
+## BUSINESS MODEL CANVAS
 
 ![Business Model Canvas](assets/docs/b-m-c.jpg)
 
