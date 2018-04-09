@@ -13,7 +13,7 @@ Disfruta del estado Outdoor.
 - Cisneros Torre, Yelitza
 
 
-# **RESEARCH**
+## **RESEARCH**
 
 ## Entrevistas
 
@@ -91,7 +91,7 @@ En el proceso de investigación, encontramos el problema de que los usuarios sue
 - ¿Cómo podríamos mostrar un flujo de manera sencilla y directa?
 
 
-# **PROPUESTA DE PRODUCTO**
+## **PROPUESTA DE PRODUCTO**
 
 Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vivir experiencias de aventura y salir del turismo tradicional. En una sola aplicación ofrecemos la búsqueda de rutas por actividad, servicios y atracciones que se pueden encontrar a lo largo de la ruta. 
 
@@ -165,7 +165,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 
 
-# ITERACIÓN
+## ITERACIÓN
 
 ## Testing del Paper prototyping
 
@@ -183,7 +183,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ## Modelo del producto
 
-# SEGUNDA ITERACIÓN
+## SEGUNDA ITERACIÓN
 
 ## Testing del prototipo de alta fidelidad.
 
